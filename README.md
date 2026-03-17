@@ -76,10 +76,11 @@ This processor follows a **single-cycle execution model**, where each instructio
 - **Inside CPU:**  
   ![Inside CPU](images/datapath_controller.jpeg)
 
-**Inside controller and datapath:**
+**Inside controller:**
 
-- ![Controller Block](images/controller.jpeg)  
-- ![Datapath Block](images/datapath.jpeg)  
+  ![Controller Block](images/controller.jpeg) 
+**Inside datapath:**
+  ![Datapath Block](images/datapath.jpeg)  
 
 ---
 
