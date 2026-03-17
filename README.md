@@ -76,18 +76,18 @@ This processor follows a **single-cycle execution model**, where each instructio
 - **Inside CPU:**  
   ![Inside CPU](images/datapath_controller.jpeg)
 
-**Inside controller:**
+- **Inside controller:**
 
   ![Controller Block](images/controller.jpeg) 
-**Inside datapath:**
+- **Inside datapath:**
   ![Datapath Block](images/datapath.jpeg)  
 
 ---
 
 ## References
 
-**Reference architecture**
-- ![Reference architecture](images/reference_architecture.jpeg)
+- **Reference architecture**
+  ![Reference architecture](images/reference_architecture.jpeg)
 
 - The design approach and concepts are inspired by:
 
