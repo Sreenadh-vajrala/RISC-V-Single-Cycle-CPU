@@ -73,7 +73,7 @@ This processor follows a **single-cycle execution model**, where each instructio
 - **Top-Level CPU View:**  
   ![Overview](images/full_overview.jpeg)
 
-- **Internal Blocks:**  
+- **Inside CPU:**  
   ![Inside CPU](images/datapath_controller.jpeg)
 
 **Inside controller and datapath:**
@@ -83,12 +83,12 @@ This processor follows a **single-cycle execution model**, where each instructio
 
 ---
 
-## Reference
+## References
 
 **Reference architecture**
-- ![Reference architecture](images/reference_architecture.jpeg)  
+- ![Reference architecture](images/reference_architecture.jpeg)
 
-The design approach and concepts are inspired by:
+- The design approach and concepts are inspired by:
 
 **Digital Design and Computer Architecture: RISC-V Edition**  
 by Sarah L. Harris and David Harris
