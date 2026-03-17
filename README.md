@@ -1,4 +1,4 @@
-# RISC-V 32-bit Single Cycle Processor
+# RISC-V Single Cycle CPU
 
 This project presents the design and implementation of a **32-bit single-cycle RISC-V processor** capable of executing all primary instruction formats: **R, I, S, B, U, and J types**. The processor has been rigorously verified using a detailed testbench to ensure correct functionality across all supported instructions.
 
