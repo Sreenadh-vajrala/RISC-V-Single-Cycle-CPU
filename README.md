@@ -3,7 +3,12 @@
 This project presents the design and implementation of a **32-bit single-cycle RISC-V processor** capable of executing all primary instruction formats: **R, I, S, B, U, and J types**. The processor has been rigorously verified using a detailed testbench to ensure correct functionality across all supported instructions.
 
 ---
+## Tools Used
+ 
+- Intel Quartus Prime  
+- ModelSim (Simulation)  
 
+---
 ## Key Highlights
 
 ### Supported Instruction Categories
